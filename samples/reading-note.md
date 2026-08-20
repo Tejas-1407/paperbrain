@@ -20,3 +20,4 @@ This sample note shows how a paper can be captured in a compact, searchable form
 
 - Which ideas need more evidence?
 - What would change my mind about the main claim?
+
