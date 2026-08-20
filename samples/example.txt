@@ -1,0 +1,6 @@
+Sample text document
+=====================
+
+Paperbrain can use plain text for quick drafts, excerpts, and scratch notes.
+
+A useful excerpt might be copied here before it is connected to a reading note.
